@@ -10,6 +10,16 @@ public class Temp {
 	
 	/*
 	 * naming conventions
+	 * package:	com.companyname.modulename
+	 * com.facebook.login
 	 * 
+	 * Class Name: Students, EmployeeData
+	 * variables and methods: camel case
+	 * 	id, studentId, showEmpAddress
+	 * 
+	 * meaningful names
+	 * methods are named as verbs
+	 * 
+	 * print info, runMachine, generateReport
 	 */
 }

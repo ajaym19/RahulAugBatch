@@ -18,11 +18,12 @@ static
 
 naming conventions
 
---------
+
 OOPS
 Inheritance
 Polymorphism
 
+--------
 Abstraction and Interfaces
 Encapsulation
 
