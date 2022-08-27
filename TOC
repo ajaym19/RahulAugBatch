@@ -9,21 +9,16 @@ for, if, switch, do while
 constructor
 this
 
-
-
 Methods and types
 Variables and types
 static
-------------
-
 naming conventions
-
 
 OOPS
 Inheritance
 Polymorphism
 
---------
+--------HIDING-------
 Abstraction and Interfaces
 Encapsulation
 
