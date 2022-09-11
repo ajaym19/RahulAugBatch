@@ -9,7 +9,7 @@ public class App {
 		RBI bankObj = new ICICIBank();
 		
 		bankObj.depositMoney();
-		bankObj.intraDayTrading();
+		//bankObj.intraDayTrading();
 		bankObj.m1();
 		
 	}

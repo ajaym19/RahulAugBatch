@@ -19,15 +19,19 @@ Inheritance
 Polymorphism
 
 --------HIDING-------
-Abstraction and Interfaces
+Abstraction and Interface
+
+
+
 Encapsulation
+
+
+------completed
 
 Strings
 String buffer and builder
 string methods
 
-
-------completed
 
 Array
 
