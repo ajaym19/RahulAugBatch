@@ -1,6 +1,8 @@
 package Collections;
 
 import java.util.ArrayList;
+import java.util.Collection;
+import java.util.Collections;
 
 public class ArrayListDemo {
 
@@ -97,7 +99,7 @@ public class ArrayListDemo {
 		//remove the duplicates from the list
 		//IP = [2,4,2,6,9,6] OP = [2,4,6,9]
 		
-		
+		Collections.sort(list);
 		
 		
 	}

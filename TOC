@@ -25,9 +25,6 @@ Abstraction and Interface
 
 Encapsulation
 
-
-------completed
-
 Strings
 String buffer and builder
 string methods
@@ -41,10 +38,13 @@ Linked List
 Hashset
 hasmap
 
+
+------completed
+
 File Handling
 Reading
 Writing
-Apache POI to reac excel file
+Apache POI to read excel file
 
 Exception Handling
 try catch block finally

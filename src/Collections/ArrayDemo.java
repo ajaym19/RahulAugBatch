@@ -1,5 +1,7 @@
 package Collections;
 
+import java.util.Arrays;
+
 public class ArrayDemo {
 
 	/*
@@ -87,6 +89,8 @@ public class ArrayDemo {
 		 * 
 		 */
 		
+		
+		Arrays.sort(c13);
 		
 
 	}
